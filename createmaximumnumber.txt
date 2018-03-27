@@ -1,0 +1,66 @@
+class Solution(object):
+    def merge(self, num1, num2,n,m):
+        table = [['' for j in range(m+1)] for i in range(n+1)]
+        for i in range(n):
+            table[i][m] = (num1[i:])
+        for j in range(m):
+            table[n][j] = (num2[j:])
+        for i in range(n-1, -1, -1):
+            for j in range(m-1,-1,-1):
+                a = num1[i] + table[i+1][j]
+                b = num2[j] + table[i][j+1]
+                if int(a) > int(b):
+                    table[i][j] = a
+                else:
+                    table[i][j] = b
+        return table[0][0]
+
+    def maxNumber(self, nums1, nums2, k):
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :type k: int
+        :rtype: List[int]
+        """
+        nums1 = [str(i) for i in nums1]
+        nums2 = [str(i) for i in nums2]
+        n = len(nums1)
+        m = len(nums2)
+        table1 = [['' for i in range(n+1)] for j in range(k+1)]
+        table2 = [['' for i in range(m+1)] for j in range(k+1)]
+        for p in range(1, k+1):
+            for i in range(n - p, -1, -1):
+                a = nums1[i] + table1[p-1][i+1]
+                b = table1[p][i+1]
+                if b:
+                    int_a = int(a)
+                    int_b = int(b)
+                    table1[p][i] = a*(int_a > int_b) + b*(int_a <= int_b)
+                else:
+                    table1[p][i] = a
+        for p in range(1, k+1):
+            for j in range(m-p,-1,-1):
+                a = nums2[j] + table2[p-1][j+1]
+                b = table2[p][j+1]
+                if b:
+                    int_a = int(a)
+                    int_b = int(b)
+                    table2[p][j] = a*(int_a > int_b) + b*(int_a <= int_b)
+                else:
+                    table2[p][j] = a
+        answer = '0'
+        int_answer = 0
+        for i in range(max(k-m, 0), min(n, k)+1):
+            candidate = self.merge(table1[i][0], table2[k-i][0], i, k-i)
+            int_candidate = int(candidate)
+            if int_answer < int_candidate:
+                answer = candidate
+                int_answer = int_candidate
+        answer = list(answer)
+        answer = [int(i) for i in answer]
+        return answer
+
+
+[5,8,2,7,2,3,1,5,9,5,2,1,5,7,0,3,0,4,4,1,0,7,3,7,5,4,5,1,3,3,8,3,3,7,3,0,2,1,8,4,8,1,0,3,1,3,1,5,3,0,8,0,2,5,0,5,6,4,7,2,6,2,4,0,4,4,1,8,1,4,1,8,2,6,7,3,4,1,1,6,0,4,7,1,8,3,0,2,9,1,6,3,8,5,5,5,0,2,2,1,1,2,1,0,9,6,8,1,0,6,4,3,8,0,0,4,8,3,9,1,9,8,7,2,0,7,6,9,1,7,1,0,0,2,0,7,1,6,2,9,0,3,1,5,6,2,4,8,8,4,5,0,9,7,0,1,0,5,8,1,2,3,5,3,7,6,4,4,4,5,6,7,7,0,0,1,3,1,0,5,5,8,2,7,2,3,1,5,9,5,2,1,5,7,0,3,0,4,4,1,0,7,3,7,5,4,5,1,3,3,8,3,3,7,3,0,2,1,8,4,8,1,0,3,1,3,1,5,3,0,8,0,2,5,0,5,6,4,7,2,6,2,4,0,4,4,1,8,1,4,1,8,2,6,7,3,4,1,1,6,0,4,7,1,8,3,0,2,9,1,6,3,8,5,5,5,0,2,2,1,1,2,1,0,9,6,8,1,0,6,4,3,8,0,0,4,8,3,9,1,9,8,7,2,0,7,6,9,1,7,1,0,0,2,0,7,1,6,2,9,0,3,1,5,6,2,4,8,8,4,5,0,9,7,0,1,0,5,8,1,2,3,5,3,7,6,4,4,4,5,6,7,7,0,0,1,3,1,0,5]
+[1,6,8,2,3,9,0,9,8,2,1,3,6,6,7,6,0,6,7,5,0,9,3,8,1,9,4,6,7,2,3,5,5,1,0,8,1,6,8,2,3,9,0,9,8,2,1,3,6,6,7,6,0,6,7,5,0,9,3,8,1,9,4,6,7,2,3,5,5,1,0,8]
+260
