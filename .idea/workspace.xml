@@ -648,7 +648,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524191091428</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="super washing machines">
+      <created>1524191109930</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1524191109930</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -721,7 +728,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" Find Largest Value in Each Tree Row" />
     <MESSAGE value="longest palindromic sub" />
-    <option name="LAST_COMMIT_MESSAGE" value="longest palindromic sub" />
+    <MESSAGE value="super washing machines" />
+    <option name="LAST_COMMIT_MESSAGE" value="super washing machines" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
