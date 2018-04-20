@@ -79,6 +79,7 @@
     <SUITE FILE_PATH="coverage/leet_code$Longest_Palindromic_Subsequence.coverage" NAME="Longest Palindromic Subsequence Coverage Results" MODIFIED="1524171161209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$minimum_window.coverage" NAME="minimum window Coverage Results" MODIFIED="1511156501508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="Best Time to Buy and Sell Stock Coverage Results" MODIFIED="1512359440665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leet_code$Super_Washing_Machines.coverage" NAME="Super Washing Machines Coverage Results" MODIFIED="1524191041033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Count_Numbers_with_Unique_Digits.coverage" NAME="Count Numbers with Unique Digits Coverage Results" MODIFIED="1517888402798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Reverse_Words_in_a_String.coverage" NAME="Reverse Words in a String Coverage Results" MODIFIED="1515092905944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Park_Bicycle.coverage" NAME="Park Bicycle Coverage Results" MODIFIED="1520103446852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -225,11 +226,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Longest Palindromic Subsequence.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Longest Palindromic Subsequence.py">
+      <file leaf-file-name="Super Washing Machines.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Super Washing Machines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="247">
+              <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -257,7 +258,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Number of Boomerangs.py" />
         <option value="$PROJECT_DIR$/Find All Numbers Disappeared in an Array.py" />
         <option value="$PROJECT_DIR$/Delete Node in a BST.py" />
         <option value="$PROJECT_DIR$/Sort Characters By Frequency.py" />
@@ -308,6 +308,7 @@
         <option value="$PROJECT_DIR$/Freedom Trail.py" />
         <option value="$PROJECT_DIR$/Find Largest Value in Each Tree Row.py" />
         <option value="$PROJECT_DIR$/Longest Palindromic Subsequence.py" />
+        <option value="$PROJECT_DIR$/Super Washing Machines.py" />
       </list>
     </option>
   </component>
@@ -483,7 +484,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Longest Palindromic Subsequence">
+  <component name="RunManager" selected="Python.Super Washing Machines">
     <configuration name="Freedom Trail" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -556,7 +557,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="base7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Super Washing Machines" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -569,25 +570,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leet_code" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Super Washing Machines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.base7" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Relative Ranks" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Perfect Number" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Freedom Trail" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Longest Palindromic Subsequence" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Relative Ranks" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Perfect Number" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Freedom Trail" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Longest Palindromic Subsequence" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Super Washing Machines" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Longest Palindromic Subsequence" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Freedom Trail" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Perfect Number" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Relative Ranks" />
-        <item index="4" class="java.lang.String" itemvalue="Python.base7" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Super Washing Machines" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Longest Palindromic Subsequence" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Freedom Trail" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Perfect Number" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Relative Ranks" />
       </list>
     </recent_temporary>
   </component>
@@ -633,7 +634,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524182404534</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="longest palindromic sub">
+      <created>1524182412312</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1524182412312</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -655,7 +663,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23371105" sideWeight="0.4922767" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25354108" sideWeight="0.4922767" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42634562" sideWeight="0.4922767" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34419262" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1505,6 +1513,11 @@
           <line>6</line>
           <option name="timeStamp" value="384" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Super Washing Machines.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1513,18 +1526,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="385" />
+      <option name="time" value="387" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Minimum Moves to Equal Array Elements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4Sum II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1889,8 +1895,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Longest Palindromic Subsequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="399">
+          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Super Washing Machines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
           <folding />
         </state>
       </provider>
