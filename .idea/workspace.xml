@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="145208a0-04f7-4310-a46d-063cb483649a" name="Default" comment="Detect">
+    <list default="true" id="145208a0-04f7-4310-a46d-063cb483649a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -226,11 +226,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Detect Capital.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Detect Capital.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Detect Capital.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
               <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Longest Uncommon Subsequence I.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Longest Uncommon Subsequence I.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -258,7 +268,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Delete Node in a BST.py" />
         <option value="$PROJECT_DIR$/Sort Characters By Frequency.py" />
         <option value="$PROJECT_DIR$/Minimum Number of Arrows to Burst Balloons.py" />
         <option value="$PROJECT_DIR$/Minimum Moves to Equal Array Elements.py" />
@@ -309,6 +318,7 @@
         <option value="$PROJECT_DIR$/Longest Palindromic Subsequence.py" />
         <option value="$PROJECT_DIR$/Super Washing Machines.py" />
         <option value="$PROJECT_DIR$/Detect Capital.py" />
+        <option value="$PROJECT_DIR$/Longest Uncommon Subsequence I.py" />
       </list>
     </option>
   </component>
@@ -559,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524191295720</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Detect Capital">
+      <created>1524350574242</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1524350574242</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -633,7 +650,8 @@
     <MESSAGE value=" Find Largest Value in Each Tree Row" />
     <MESSAGE value="longest palindromic sub" />
     <MESSAGE value="super washing machines" />
-    <option name="LAST_COMMIT_MESSAGE" value="super washing machines" />
+    <MESSAGE value="Detect Capital" />
+    <option name="LAST_COMMIT_MESSAGE" value="Detect Capital" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1450,13 +1468,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assign Cookies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/132 Pattern.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1823,6 +1834,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest Uncommon Subsequence I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
