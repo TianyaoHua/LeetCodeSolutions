@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="145208a0-04f7-4310-a46d-063cb483649a" name="Default" comment="">
+    <list default="true" id="145208a0-04f7-4310-a46d-063cb483649a" name="Default" comment="Longest Uncommon Subsequence II">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +24,7 @@
     <SUITE FILE_PATH="coverage/leet_code$Count_Primes.coverage" NAME="Count Primes Coverage Results" MODIFIED="1515267844381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$minimum_size_subarray_sum2.coverage" NAME="minimum size subarray sum2 Coverage Results" MODIFIED="1515277780450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Find_Right_Interval.coverage" NAME="Find Right Interval Coverage Results" MODIFIED="1519329838732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leet_code$Beautiful_Arrangement.coverage" NAME="Beautiful Arrangement Coverage Results" MODIFIED="1524363536434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Unique_Paths.coverage" NAME="Unique Paths Coverage Results" MODIFIED="1511124156201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Count_of_Smaller_Numbers_After_Self.coverage" NAME="Count of Smaller Numbers After Self Coverage Results" MODIFIED="1517250612195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$queue.coverage" NAME="queue Coverage Results" MODIFIED="1515454490061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -39,6 +40,7 @@
     <SUITE FILE_PATH="coverage/leet_code$Odd_Even_Linked_List.coverage" NAME="Odd Even Linked List Coverage Results" MODIFIED="1517505430566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$IPO.coverage" NAME="IPO Coverage Results" MODIFIED="1521745423031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Diagonal_Traverse.coverage" NAME="Diagonal Traverse Coverage Results" MODIFIED="1520461609321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leet_code$Longest_Word_in_Dictionary_through_Deleting.coverage" NAME="Longest Word in Dictionary through Deleting Coverage Results" MODIFIED="1524355602369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Convert_a_Number_to_Hexadecimal.coverage" NAME="Convert a Number to Hexadecimal Coverage Results" MODIFIED="1518295736000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Minimum_Window_Substring.coverage" NAME="Minimum Window Substring Coverage Results" MODIFIED="1511156409435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Different_Ways_to_Add_Parentheses.coverage" NAME="Different Ways to Add Parentheses Coverage Results" MODIFIED="1516481852446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -83,6 +85,7 @@
     <SUITE FILE_PATH="coverage/leet_code$Count_Numbers_with_Unique_Digits.coverage" NAME="Count Numbers with Unique Digits Coverage Results" MODIFIED="1517888402798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Reverse_Words_in_a_String.coverage" NAME="Reverse Words in a String Coverage Results" MODIFIED="1515092905944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Park_Bicycle.coverage" NAME="Park Bicycle Coverage Results" MODIFIED="1520103446852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leet_code$Continuous_Subarray_Sum.coverage" NAME="Continuous Subarray Sum Coverage Results" MODIFIED="1524354935023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Longest_Repeating_Character_Replacement.coverage" NAME="Longest Repeating Character Replacement Coverage Results" MODIFIED="1518574213712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Search_in_Rotated_Sorted_Array_II.coverage" NAME="Search in Rotated Sorted Array II Coverage Results" MODIFIED="1514315255540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Two_Sum_II___Input_array_is_sorted.coverage" NAME="Two Sum II - Input array is sorted Coverage Results" MODIFIED="1515098188172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -106,6 +109,7 @@
     <SUITE FILE_PATH="coverage/leet_code$Number_of_Digit_One.coverage" NAME="Number of Digit One Coverage Results" MODIFIED="1516473910972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Binary_Watch.coverage" NAME="Binary Watch Coverage Results" MODIFIED="1518287845893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Word_Ladder_II.coverage" NAME="Word Ladder II Coverage Results" MODIFIED="1514574579865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leet_code$Contiguous_Array.coverage" NAME="Contiguous Array Coverage Results" MODIFIED="1524357983645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Battleships_in_a_Board.coverage" NAME="Battleships in a Board Coverage Results" MODIFIED="1518547174743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Evaluate_Reverse_Polish_Notation.coverage" NAME="Evaluate Reverse Polish Notation Coverage Results" MODIFIED="1515015201929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leet_code$Serialize_and_Deserialize_Binary_Tree.coverage" NAME="Serialize and Deserialize Binary Tree Coverage Results" MODIFIED="1517087011170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -227,11 +231,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Longest Uncommon Subsequence II.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Longest Uncommon Subsequence II.py">
+      <file leaf-file-name="Beautiful Arrangement.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Beautiful Arrangement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="52" column="8" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+            <state relative-caret-position="323">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -259,10 +263,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Minimum Number of Arrows to Burst Balloons.py" />
-        <option value="$PROJECT_DIR$/Minimum Moves to Equal Array Elements.py" />
-        <option value="$PROJECT_DIR$/4Sum II.py" />
-        <option value="$PROJECT_DIR$/Assign Cookies.py" />
         <option value="$PROJECT_DIR$/132 Pattern.py" />
         <option value="$PROJECT_DIR$/Circular Array Loop.py" />
         <option value="$PROJECT_DIR$/Repeated Substring Pattern.py" />
@@ -310,6 +310,10 @@
         <option value="$PROJECT_DIR$/Detect Capital.py" />
         <option value="$PROJECT_DIR$/Longest Uncommon Subsequence I.py" />
         <option value="$PROJECT_DIR$/Longest Uncommon Subsequence II.py" />
+        <option value="$PROJECT_DIR$/Continuous Subarray Sum.py" />
+        <option value="$PROJECT_DIR$/Longest Word in Dictionary through Deleting.py" />
+        <option value="$PROJECT_DIR$/Contiguous Array.py" />
+        <option value="$PROJECT_DIR$/Beautiful Arrangement.py" />
       </list>
     </option>
   </component>
@@ -375,8 +379,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Longest Uncommon Subsequence II">
-    <configuration name="Freedom Trail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Beautiful Arrangement">
+    <configuration name="Beautiful Arrangement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -389,12 +393,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leet_code" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Freedom Trail.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beautiful Arrangement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Longest Palindromic Subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Contiguous Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -407,7 +411,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leet_code" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longest Palindromic Subsequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Contiguous Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Continuous Subarray Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leet_code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Continuous Subarray Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -430,7 +452,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Perfect Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Longest Word in Dictionary through Deleting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -443,43 +465,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leet_code" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perfect Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Super Washing Machines" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leet_code" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Super Washing Machines.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longest Word in Dictionary through Deleting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Perfect Number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Freedom Trail" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Longest Palindromic Subsequence" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Super Washing Machines" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Longest Uncommon Subsequence II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Longest Uncommon Subsequence II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Continuous Subarray Sum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Longest Word in Dictionary through Deleting" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Contiguous Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Beautiful Arrangement" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Longest Uncommon Subsequence II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Super Washing Machines" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Longest Palindromic Subsequence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Freedom Trail" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Perfect Number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Beautiful Arrangement" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Contiguous Array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Longest Word in Dictionary through Deleting" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Continuous Subarray Sum" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Longest Uncommon Subsequence II" />
       </list>
     </recent_temporary>
   </component>
@@ -574,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524350902750</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Longest Uncommon Subsequence II">
+      <created>1524352811099</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1524352811099</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -590,13 +601,13 @@
     <frame x="-7" y="-7" width="1551" height="839" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24445938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24781732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24787535" sideWeight="0.50772333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42634562" sideWeight="0.4922767" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23371105" sideWeight="0.4922767" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4348442" sideWeight="0.4922767" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23371105" sideWeight="0.4922767" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -650,7 +661,8 @@
     <MESSAGE value="super washing machines" />
     <MESSAGE value="Detect Capital" />
     <MESSAGE value="Longest Uncommon Subsequence I" />
-    <option name="LAST_COMMIT_MESSAGE" value="Longest Uncommon Subsequence I" />
+    <MESSAGE value="Longest Uncommon Subsequence II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Longest Uncommon Subsequence II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1459,6 +1471,16 @@
           <line>21</line>
           <option name="timeStamp" value="387" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Continuous Subarray Sum.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Contiguous Array.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1467,42 +1489,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="388" />
+      <option name="time" value="392" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Circular Array Loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="30" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Repeated Substring Pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LFU Cache.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Minimum Moves to Equal Array Elements II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Island Perimeter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -1830,7 +1821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1838,14 +1828,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Continuous Subarray Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Longest Uncommon Subsequence II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="52" column="8" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest Word in Dictionary through Deleting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contiguous Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Beautiful Arrangement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
           <folding />
         </state>
       </provider>
